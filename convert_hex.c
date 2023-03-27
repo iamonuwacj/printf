@@ -1,7 +1,7 @@
 /*
  * File: convert_hex.c
- * Auth: Brennan D Baraban
- *       Michael Klein
+ * Auth: Onuwa Chinedu
+ *       Ezra Dongijena
  */
 
 #include "main.h"
