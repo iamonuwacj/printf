@@ -1,7 +1,7 @@
 /*
  * File: convert_hex.c
  * Auth: Onuwa Chinedu
- *       Ezra Dongijena
+ *       Ezra Dongijenaah
  */
 
 #include "main.h"
