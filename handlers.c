@@ -1,7 +1,7 @@
 /*
  * File: handlers.c
  * Auth: Onuwa Chinedu
- *       Ezra Dongijena
+ *       Ezra Dongijenah
  */
 
 #include "main.h"
