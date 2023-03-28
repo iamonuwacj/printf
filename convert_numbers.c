@@ -1,7 +1,7 @@
 /*
  * File: convert_numbers.c
  * Auth: Brennan D Baraban
- *       Michael Klein
+ *       Ezra Dongijena
  */
 
 #include "main.h"
