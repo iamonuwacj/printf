@@ -1,7 +1,7 @@
 /*
  * File: convert_c_percent_p.c
  * Auth: Onuwa Chinedu
- *       Ezra Dongijena
+ *       Ezra Dongijenah
  */
 
 #include "main.h"
